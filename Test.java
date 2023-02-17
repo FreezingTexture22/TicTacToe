@@ -11,17 +11,6 @@ public class Test {
 
 		do {
 
-//			System.out.println("Game is going on");
-//			System.out.println("yHasThreeInARow = " + yHasThreeInARow);
-//			System.out.println(i);
-//			i++;
-//			if (i == 5) {
-//				yHasThreeInARow = true;
-//			}
-			
-			
-			// some code
-			// game is going on
 			
 			if (xHasThreeInARow || yHasThreeInARow) {
 				gameCompleted = true;
