@@ -2,6 +2,7 @@ package SimpleTicTacToe;
 
 public class Test {
 ///
+///
 	public static void main(String[] args) {
 
 		boolean xHasThreeInARow = false;
@@ -11,11 +12,10 @@ public class Test {
 
 		do {
 
-			
 			if (xHasThreeInARow || yHasThreeInARow) {
 				gameCompleted = true;
 				System.out.println("Game completed.");
-			} 
+			}
 
 		} while (!gameCompleted);
 
