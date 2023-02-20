@@ -8,3 +8,11 @@ public class NewTest1 {
 	}
 
 }
+
+class Tess {
+	
+	void tess() {
+		
+	}
+	
+}
